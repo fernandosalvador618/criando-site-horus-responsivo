@@ -1,0 +1,21 @@
+{
+  "name": "html",
+  "homepage": "https://github.com/fernandosalvador618/criando-site-horus-responsivo",
+  "authors": [
+    "Fernando Salvador <fernandosalvador618@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
